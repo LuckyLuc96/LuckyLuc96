@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on expanding my portfolio and my education. 
-- 🌱 I’m currently learning more HTML, Python, and Rust!
+- 🌱 I’m currently learning more Python and Rust!
 - 📫 How to reach me: Email: Lucsaybibi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 3 more cats than I planned on having. 
