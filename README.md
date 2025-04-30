@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on expanding my portfolio and my education. 
 - 🌱 I’m currently learning more Python and Rust!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 3 more cats than I planned on having. 
-
 <!--
 **LuckyLuc96/LuckyLuc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
