@@ -2,6 +2,7 @@
 - 🫠 Also use names "Judgefae" or "Fae"
 - 🔭 I’m currently working on expanding my portfolio and my education. 
 - 🌱 I’m currently learning more Python and kotlin!
+- Fan of github.com/Azerothcore
 - 😄 Pronouns: He/Him
 <!--
 **LuckyLuc96/LuckyLuc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
