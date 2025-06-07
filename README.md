@@ -2,7 +2,7 @@
 - 🫠 Also use names "Judgefae" or "Fae"
 - 🔭 I’m currently working on expanding my portfolio and my education. 
 - 🌱 I’m currently learning more Python and kotlin!
-- Fan of github.com/Azerothcore
+- 💬 Ask me about my Azerothcore based server and scripts
 - 😄 Pronouns: He/Him
 <!--
 **LuckyLuc96/LuckyLuc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,5 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
 -->
