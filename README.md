@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🫠 Also use names "Judgefae" or "Fae"
-- 🔭 I’m currently working on expanding my portfolio and my education. 
-- 🌱 I’m currently learning more Python and kotlin!
-- 💬 Ask me about my Azerothcore based server and scripts
-- 😄 Pronouns: He/Him
+- Also go by "Judgefae", "Fae", or just Christian
+- I’m currently working on expanding my portfolio and am looking for full time work. 
+- I’m currently learning more c++
+- Ask me about my Azerothcore based server and scripts
+- Pronouns: He/Him
 <!--
 **LuckyLuc96/LuckyLuc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
